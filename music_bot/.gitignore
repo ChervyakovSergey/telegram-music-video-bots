@@ -1,0 +1,6 @@
+.env
+downloads/
+cache.json
+yt-dlp
+__pycache__/
+*.pyc

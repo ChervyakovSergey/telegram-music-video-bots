@@ -1,0 +1,6 @@
+# Python-зависимости (уже установлены в ../venv):
+aiogram>=3.7
+python-dotenv>=1.0
+
+# Скачивание делает standalone-бинарник yt-dlp (../music_bot/yt-dlp),
+# как библиотека здесь не нужен.
